@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: #f4f4f4;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #1a1818;
+    padding: 1rem;
+    
+}
+
+/* burger-menu */
+
+.burger-menu {
+    
+    height: 50px;
+    width: 50px;
+    background-color: red;
+
+}
